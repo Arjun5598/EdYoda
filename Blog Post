@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog Post</title>
+
+    <style>
+
+        h1{
+            color: rgb(14, 14, 104);
+        }
+
+        h2{
+            color: rgb(110, 101, 110);
+        }
+
+        h3{
+            color: rgb(221, 168, 177);
+        }
+
+        .pictures{
+            width: 200px;
+            height: 200px;
+        }
+        
+    </style>
+
+
+</head>
+
+<body>
+
+    <h1>Juu's Blog</h1>
+    <h2>Life of Juu</h2>
+    <h3>Juu's Dreams</h3>
+
+    <p>The guitar is a fretted musical instrument that typically has six strings. It is usually held flat against the player's body and played by strumming or plucking the strings with the dominant hand, while simultaneously pressing selected strings against frets with the fingers of the opposite hand. A plectrum or individual finger picks may also be used to strike the strings.</p>
+    <img class="pictures" src="./images/guitar.jpeg" alt="guitar">
+
+    <p>Fitness is defined as “a set of attributes that people have or achieve that relates to the ability to perform physical activity.”</p>
+    <img class="pictures" src="./images/fitness.jpeg" alt="Fitness">
+
+    <p>Wanderlust is a strong desire to wander or travel and explore the world.</p>
+    <img class="pictures" src="./images/travel.jpeg" alt="travel">
+
+    <p>Foodies are people who are fascinated by food, food preparation, the food industry, and the culture surrounding food. Unlike professional chefs, cooks, or farmers, foodies do not usually have an economic interest in food. For foodies, food is a hobby.</p>
+    <img class="pictures" src="./images/food.jpeg" alt="food">
+
+</body>
+
+</html>
